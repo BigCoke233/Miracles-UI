@@ -1,0 +1,16 @@
+/** ==============  /
+ *  miracles-reset.css
+ *  Last Update: 2020.3.22
+ *  MIT License
+ *  ============== */
+
+@charset 'utf-8';
+
+* {
+    box-sizing: border-box
+}
+
+body {
+	margin: 0;
+	background: #fff
+}
